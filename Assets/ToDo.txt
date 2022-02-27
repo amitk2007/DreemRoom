@@ -1,0 +1,13 @@
+inventory:
+remove after use - V
+
+scenes -> scenes transformations -change scene
+
+end scene -> if get objecttag="usable" is 0 -> sleep
+
+usable:
+open state
+open animatins(all the same)
+prize > next stage of the game -> somethign else to collect
+
+clue -> make the background image color -transtapert
